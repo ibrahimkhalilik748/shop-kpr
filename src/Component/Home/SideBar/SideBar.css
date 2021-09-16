@@ -1,0 +1,28 @@
+.sideBar{
+    width: 100%;
+}
+.sideBar .nmb{
+    width: 50px;
+    height: 50px;
+    background-color: #5FBF7A;
+    border-radius: 10px;
+    color: white;
+    font-size:20px;
+    font-weight: 500;
+}
+.sideBar .first-p{
+    color: black;
+    font-weight: 500;
+    font-size: 12px;
+}
+.sideBar .second-p{
+    color: gray;
+    font-size: 9px;
+    /* font-weight: 500; */
+}
+.sideBar .text{
+    padding-left: 20px;
+}
+.sideBar li{
+    margin-top: 10px;
+}
